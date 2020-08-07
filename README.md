@@ -1,4 +1,9 @@
-### Hi there 👋
+### 欢迎大家关注我的微信公众号`Java之康庄大道`
+
+![Java之康庄大道](http://yunqing-img.oss-cn-beijing.aliyuncs.com/hexo/weixingongzhonghao.jpg)
+
+### 最近开通了个人博客站点，总结分享学习过程中遇到的一些问题 http://www.yunqing.xyz
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kangqing&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
